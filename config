@@ -1,0 +1,4 @@
+wall-thickness = 3
+num-eyes = 1
+eye-pixmap = "xtrapc.png"
+pupil-pixmap = "Default-tiny-pupil.png"
