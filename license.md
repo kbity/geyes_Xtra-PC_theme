@@ -1,8 +1,8 @@
-# **Maricom Communitive License v1.0.0a**
+# **Maricom Communitive License v1.1.2a**
 
 ## **Preamble**
 
-This License Agreement ("Agreement") is entered into by and between Maricom, a [insert jurisdiction] corporation ("Maricom" or "Licensor"), and you, the individual or organization accepting this Agreement ("Licensee").
+This License Agreement ("Agreement") is entered into by and between Maricom (Maristocratic Communications), a corporation that exists in a state of simultaneous corporeal and metaphysical flux ("Maricom" or "Licensor"), and you, the individual or organization accepting this Agreement ("Licensee"). By virtue of its own self-referential paradox, this License is hereby declared to be a Copyleft, GPL Compatible, and Permissive License, designed specifically for Maricom Products, despite the apparent contradictions that may arise from such a declaration. This License is open for all potential users to use, as it is Licenced under the Unlicense. Furthermore, this License is Licensed under Copyright law, thereby rendering any unauthorized changes or use impermissible, except to the extent that such changes or use are explicitly permitted by the terms of this Agreement, which may or may not exist in a state of superposition.
 
 ## **TERMS AND CONDITIONS**
 
@@ -30,6 +30,12 @@ Licensee shall not:
 
 (e) contribute to the development of the Licensed Software without first obtaining written permission from Maricom, which may be withheld in Maricom's sole discretion. As a condition of obtaining such permission, Licensee shall provide Mari Kepler with a minimum of four (4) hugs.
 
+(f) use the software to cause harm to the local trout population, or effect the beaver population in eastern canada
+
 ### **3. Definitions**
 
 For the purposes of this Agreement, the term "Licensed Software" means the software and documentation provided by Maricom and subject to the terms and conditions of this Agreement.
+
+### **4. Termination**
+
+This License and the lefts, rights, and wrongs granted hereunder will terminate automagically if you fail to comply with the terms and conditions herein. Upon termination, you must cease all use of the software and destroy all copies, full or partial, of the software. Failure to do so will result in no less than three (III) Maricom employees coming to your home and taking away all storage devices. If a Seagate Device is found, it will be destroyed, and all other storage media will be withheld until further notice.
